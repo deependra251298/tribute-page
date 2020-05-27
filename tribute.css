@@ -1,0 +1,29 @@
+
+		body{
+               background-color:#cccccc;
+               text-align: justify;
+               position: relative;
+			}
+		#img-div{
+			background-color: #ffffff;
+			text-align : center;
+		
+			}
+			#title{text-align:center;
+			}
+		
+			#img-caption{
+				font-family:" sans serif";
+				}
+				#image{
+					max-width: 100%;
+					height: auto;
+					display:block;
+					}
+			#main{
+				font-family:monospace;
+				}
+				#target-link{
+					background-color: #abcdef;
+					}
+		
